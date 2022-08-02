@@ -1,0 +1,4 @@
+item a comprar: tarjeta de video, diademas,teclado,procesador
+numero de productos
+precio
+cantidad de c/ articulo
